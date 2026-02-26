@@ -6,10 +6,10 @@ A Computer Science student building strong fundamentals by writing about what I 
 This repository is a collection of **all my technical blogs** — past, present, and future — as part of my #LearningInPublic journey.
 
 I write to:
-- 🧠 Deeply understand concepts
-- ✍️ Improve technical communication
-- 🔍 Identify knowledge gaps
-- 📈 Grow through feedback
+-  Deeply understand concepts
+-  Improve technical communication
+-  Identify knowledge gaps
+-  Grow through feedback
 
 This repo will be continuously updated as I publish new blogs.
 
