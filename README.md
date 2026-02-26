@@ -41,10 +41,10 @@ This repo will be continuously updated as I publish new blogs.
 8. **The 3-Way Handshake: Inside TCP**  
    https://tcp-working-explaination.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication  
 
-9. **Browser Internal Working**  
-   https://browser-internal-working-explaination.hashnode.dev  
+<!-- 9. **Browser Internal Working**  
+   https://browser-internal-working-explaination.hashnode.dev   -->
 
-10. **HTML Tags Explained**  
+<!-- 10. **HTML Tags Explained**  
     https://about-html-tags.hashnode.dev  
 
 11. **CSS Selectors Explained**  
@@ -54,9 +54,9 @@ This repo will be continuously updated as I publish new blogs.
     https://emmet-for-html-explaination.hashnode.dev  
 
 13. **Understanding this, call, apply, bind**  
-    https://understanding-this-call-apply-bind-methods.hashnode.dev  
+    https://understanding-this-call-apply-bind-methods.hashnode.dev   -->
 
-14. **Execution Context in JavaScript**  
+9. **Execution Context in JavaScript**  
     https://explore-execution-context-in-js.hashnode.dev  
 
 ---
