@@ -58,6 +58,10 @@ This repo will be continuously updated as I publish new blogs.
 
 9. **Execution Context in JavaScript**  
     https://explore-execution-context-in-js.hashnode.dev  
+ 
+
+10. **JavaScript Promises: Complete Guide with Real-World Analogies**  
+   https://js-promises-with-real-world-analogy.hashnode.dev/javascript-promises-complete-guide-with-real-world-analogies
 
 ---
 
