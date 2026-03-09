@@ -63,6 +63,8 @@ This repo will be continuously updated as I publish new blogs.
 10. **JavaScript Promises: Complete Guide with Real-World Analogies**  
    https://js-promises-with-real-world-analogy.hashnode.dev/javascript-promises-complete-guide-with-real-world-analogies
 
+11. **Internal Working of TypeScript: From TS Code to JavaScript** 
+   https://internal-working-of-typescript.hashnode.dev/
 ---
 
 # 🙏 Feedback & Contributions
